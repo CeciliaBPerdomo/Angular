@@ -21,6 +21,6 @@
     - https://soka.gitlab.io/angular/conceptos/componentes/comunicacion-entre-componentes/comunicacion-entre-componentes/
 
 
-## Créditos
-By 👩‍💻​ **Cecilia Perdomo**
+## 👩‍💻 Créditos
+By **Cecilia Perdomo**
 - https://www.linkedin.com/in/cecilia-perdomo/ 
