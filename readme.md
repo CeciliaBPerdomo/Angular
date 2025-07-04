@@ -1,4 +1,4 @@
-# <img src="image.png" style="width: 3%"> Angular
+# <img src="image.png" style="width: 3%"> Angular <img src="image.png" style="width: 3%">
 
 ## 🖥️​ Temario
 - Introducción a Angular
@@ -22,5 +22,5 @@
 
 
 ## Créditos
-By 👩‍💻​ Cecilia Perdomo
-https://www.linkedin.com/in/cecilia-perdomo/ 
+By 👩‍💻​ **Cecilia Perdomo**
+- https://www.linkedin.com/in/cecilia-perdomo/ 
