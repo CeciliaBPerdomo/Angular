@@ -1,6 +1,6 @@
-# Angular
+# <img src="image.png" style="width: 3%"> Angular
 
-## Temario
+## 🖥️​ Temario
 - Introducción a Angular
 - Fundamentos de Angular
 - Comunicación entre componentes
@@ -12,10 +12,15 @@
 - Gestión avanzada con NgRx
 - IA aplicada a Angular
 
-## Material complementario
+## ✍️​ Material complementario
 - **Angular doc-Documentacion Oficial**
     - https://v17.angular.io/docs
 - **Angular-CLI-Documentacion Oficial**
     - https://v17.angular.io/cli
 - **Programación con angular**
     - https://soka.gitlab.io/angular/conceptos/componentes/comunicacion-entre-componentes/comunicacion-entre-componentes/
+
+
+## Créditos
+By 👩‍💻​ Cecilia Perdomo
+https://www.linkedin.com/in/cecilia-perdomo/ 
