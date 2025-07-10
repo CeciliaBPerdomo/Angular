@@ -19,7 +19,8 @@
     - https://v17.angular.io/cli
 - **Programación con angular**
     - https://soka.gitlab.io/angular/conceptos/componentes/comunicacion-entre-componentes/comunicacion-entre-componentes/
-
+- **Angular Material**
+    - https://material.angular.dev/components/categories
 
 ## 👩‍💻 Créditos
 By **Cecilia Perdomo**
