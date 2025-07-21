@@ -21,6 +21,11 @@
     - https://soka.gitlab.io/angular/conceptos/componentes/comunicacion-entre-componentes/comunicacion-entre-componentes/
 - **Angular Material**
     - https://material.angular.dev/components/categories
+- **RxJs**
+    - Reactive Extensions Library for JavaScript
+    - https://rxjs.dev/
+- **Aprende RxJs desde 0**
+    - http://blog.enriqueoriol.com/2019/03/aprende-rxjs-1.html
 
 ## 👩‍💻 Créditos
 By **Cecilia Perdomo**
